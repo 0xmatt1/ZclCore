@@ -2,7 +2,7 @@ ZClassic 2.0.6
 
 ===========
 
-What is ZClCore?
+What is ZclCore?
 --------------
 
 [ZClassic](https://zclcore.com/) is an implementation of the "Zerocash" protocol.
