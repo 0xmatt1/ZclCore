@@ -1,18 +1,18 @@
-ZclCore 2.0.6
+ZclCore 1.0.0
 
 ===========
 
 What is ZclCore?
 --------------
 
-[ZClassic](https://zclcore.com/) is an implementation of the "Zerocash" protocol.
+[ZclCore](https://zclcore.com/) is an implementation of the "Zerocash" protocol.
 Based on Bitcoin's code, it intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. Technical details are available
 in our [Protocol Specification](https://github.com/zcash/zips/raw/master/protocol/protocol.pdf).
 
-This software is the ZClassic client. It downloads and stores the entire history
-of ZClassic transactions; depending on the speed of your computer and network
+This software is the ZclCore client. It downloads and stores the entire history
+of ZclCore transactions; depending on the speed of your computer and network
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
@@ -36,7 +36,7 @@ height.
 
 ## Getting Started
 
-Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main ZClassic network.
+Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main ZclCore network.
 
 ### Need Help?
 
